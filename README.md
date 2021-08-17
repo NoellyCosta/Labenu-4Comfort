@@ -1,3 +1,16 @@
+
+![Captura de tela de 2021-08-16 21-49-45](https://user-images.githubusercontent.com/59965675/129750615-a4bbd047-ffc0-4c39-ad95-44e0752cff20.png)
+![Captura de tela de 2021-08-16 21-49-52](https://user-images.githubusercontent.com/59965675/129750627-0bb30673-8646-4480-8bb5-d6bafec183b9.png)
+![Captura de tela de 2021-08-16 21-49-57](https://user-images.githubusercontent.com/59965675/129750640-f8111d51-e695-41bf-a3ce-ad63e764d76d.png)
+![Captura de tela de 2021-08-16 21-50-07](https://user-images.githubusercontent.com/59965675/129750656-dae3c996-e49d-4676-8201-fe57dd1d6c46.png)
+![Captura de tela de 2021-08-16 21-50-13](https://user-images.githubusercontent.com/59965675/129750673-2a5998b4-41ae-4e44-bec8-80d4b8ad8538.png)
+![Captura de tela de 2021-08-16 21-50-23](https://user-images.githubusercontent.com/59965675/129750713-7bbc3a54-a663-42a5-99e1-0ccc2cec5afb.png)
+![Captura de tela de 2021-08-16 21-50-29](https://user-images.githubusercontent.com/59965675/129750738-d689c459-57fb-449c-a9f0-c9c6968339ba.png)
+![responsiveiXproducts](https://user-images.githubusercontent.com/59965675/129750802-d16d5028-c7b1-4fc9-923a-f7016bafac1b.png)
+![responsivoiX](https://user-images.githubusercontent.com/59965675/129750813-b7e04387-8f9d-427f-87c8-ceb1248b522c.png)
+
+
+
 ### O primeiro cliente a gente nunca esquece
 
 Você foi contratado(a) para construir uma versão inicial **simplificada** de um website para um cliente - e você tem apenas um dia para essa entrega. 
